@@ -1,0 +1,15 @@
+
+Tempatkan AlfiansahTrisaputra_TB1_IT5Aeu didalam xampp>>htdocs
+lalu import database import dbtokokue kedalam phpmyadmin : buat database baru bernama dbtokokue >> import mySQL yang sudah ada
+
+Kemudikan buka google chrome dan ketik localhost/AlfiansahTrisaputra_TB1_IT5Aeu
+kemudian akan masuk kedalam halaman index
+
+jika ingin melihat data data dari customer masuk sebagai admin di form login
+Untuk login admin terdapat di sebelah kanan menu 
+id : alfiansah
+pass : felix007
+
+setelah login admin bisa membuat akun baru di halaman admin
+  
+
